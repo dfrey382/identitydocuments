@@ -1,16 +1,16 @@
 {
-    "name": "dsc/identitydocuments",
+    "name": "dscke/identitydocuments",
     "description": "Package to parse identity documents like passports",
     "license": "GPL-3.0-or-later",
     "version": "3",
     "authors": [
         {
-            "name": "Hergen Dillema",
-            "email": "hergen.dillema@gmail.com",
-            "homepage": "https://365werk.nl"
+            "name": "Digital Steps Creatives",
+            "email": "info@dsc.co.ke",
+            "homepage": "https://dsc.co.ke"
         }
     ],
-    "homepage": "https://github.com/werk365/identitydocuments",
+    "homepage": "https://github.com/dsc382/identitydocuments",
     "keywords": ["Laravel", "IdentityDocuments", "MRZ", "Passport"],
     "require": {
         "google/cloud-vision": "^1.3",
